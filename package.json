@@ -1,0 +1,26 @@
+{
+  "name": "mybot",
+  "version": "0.0.1",
+  "description": "acerca de? su bot",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^12.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/realKazehaya"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "discordmoderation",
+    "botmoderation"
+  ]
+}
