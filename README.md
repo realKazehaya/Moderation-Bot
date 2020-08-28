@@ -7,6 +7,7 @@
   <li>unban</li>
   <li>mute</li>
   <li>unmute</li>
+  <li>lockdown</li>
 </ul>
 
 <h2>Social</h2>
