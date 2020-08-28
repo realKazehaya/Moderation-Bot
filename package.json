@@ -1,26 +1,30 @@
 {
-  "name": "mybot",
-  "version": "0.0.1",
-  "description": "acerca de? su bot",
-  "main": "node index.js",
+  "name": "dorito-bot",
+  "version": "1.0.0",
+  "description": "A multipurpose Discord bot with many NSFW and fun commands as well as utility and moderation.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.16.4",
-    "discord.js": "^12.0.2"
-  },
-  "engines": {
-    "node": "12.x"
+    "start": "start index.js"
   },
   "repository": {
-    "url": "https://github.com/realKazehaya"
+    "type": "git",
+    "url": "git+https://github.com/realKazehaya/Moderation-Bot.git"
   },
-  "license": "MIT",
   "keywords": [
-    "discord",
-    "discordmoderation",
-    "botmoderation"
-  ]
+    "discord.js"
+  ],
+  "author": "Aaronidk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realKazehaya/Moderation-Bot/issues"
+  },
+  "homepage": "https://github.com/realKazehaya/Moderation-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "moment-duration-format": "^2.3.2",
+    "snekfetch": "^4.0.4",
+    "urban.js": "^2.4.3"
+  },
+  "devDependencies": {}
 }
