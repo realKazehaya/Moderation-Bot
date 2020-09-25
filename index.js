@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 let prefix = process.env.PREFIX;
 
-client.on('ready' () => {
+client.on('ready', () => {
   console.log("Starting...")
 });
 
