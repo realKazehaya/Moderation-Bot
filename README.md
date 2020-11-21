@@ -9,8 +9,3 @@
   <li>unmute</li>
   <li>lockdown</li>
 </ul>
-
-<h2>Social</h2>
-<ul>
-   <li>https://discord.gg/VvZjK8y</li>
-</ul>
