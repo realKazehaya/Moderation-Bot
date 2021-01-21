@@ -1,4 +1,4 @@
-<h2>Coded by Kazehaya#3276</h2>
+<h2>Coded by Animus#8980</h2>
 
 <h3>Commands:</h3>
 <ul>
